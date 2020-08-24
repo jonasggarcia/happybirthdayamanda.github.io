@@ -1,5 +1,5 @@
 # happybirthdayamanda.github.io
 
-This page be maked to congrats to Amanda Mello.
+This page is designed to give congratulations to Amanda Mello.
 
 Birthday 27/08/2020.
